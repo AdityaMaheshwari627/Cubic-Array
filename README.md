@@ -1,1 +1,1 @@
-.# Cubic-Array
+# Cubic-Array
